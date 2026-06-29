@@ -37,4 +37,4 @@ Built a web portal for college recommendations based on KCET, COMEDK, and privat
 Developed a Java-based GUI application for flight booking, passenger management, ticket generation, and airline reservation handling.
 
 ## Connect With Me
-LinkedIn: (paste your LinkedIn link here)
+LinkedIn: www.linkedin.com/in/rishika-sanjeev-kulkarni-693788285
